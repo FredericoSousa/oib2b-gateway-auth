@@ -16,7 +16,7 @@ yarn add oib2b-gateway-auth
 
 ## Usage
 
-```nodejs
+```js
 const Auth = require('oib2b-gateway-auth');
 
 const auth = new Auth('GATEWAY_URL');
